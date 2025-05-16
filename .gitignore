@@ -92,6 +92,7 @@ pdm.lock
 pyrightconfig.json
 
 # Environments
+.artifacts
 .env
 .venv
 env/
